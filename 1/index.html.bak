@@ -27,7 +27,11 @@
 		<span id="span0" class="spanstyle">H</span><span id="span1" class="spanstyle">a</span>
 		<span id="span2" class="spanstyle">p</span><span id="span3" class="spanstyle">p</span>
 		<span id="span4" class="spanstyle">y</span><span id="span5" class="spanstyle">B</span><span id="span6" class="spanstyle">
-		 
+		 </span><span id="span7" class="spanstyle">i</span><span id="span8" class="spanstyle">r</span><span id="span9" class="spanstyle">d</span>
+		 <span id="span10" class="spanstyle">a </span><span id="span11" class="spanstyle">y</span>
+		 <span id="span12" class="spanstyle">t</span><span id="span13" class="spanstyle">o</span><span id="span14" class="spanstyle">j</span><span id="span15" class="spanstyle">e</span>
+		 <span id="span16" class="spanstyle">l</span><span id="span17" class="spanstyle">y</span><span id="span18" class="spanstyle">！</span><span id="span19" class="spanstyle">!</span>
+	
 
 	
 		<script type="text/javascript">
@@ -94,7 +98,7 @@
 				setTimeout("showTime()", 40000);
 			</script>
 		</div>
-
+		<embed src="mo.mp3" />
 	
 	
 
